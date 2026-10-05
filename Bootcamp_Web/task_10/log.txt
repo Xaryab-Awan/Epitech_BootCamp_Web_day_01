@@ -1,0 +1,13 @@
+hello
+ERROR something went wrong
+hello again
+error file missing
+everything okay
+Error connection failed
+hello
+ERROR database failed
+hello
+error password wrong
+hello
+ERROR server failed
+hello
